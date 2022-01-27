@@ -1,6 +1,6 @@
 # Word-count
 ## AIM:
-To write a python program for getting the word count from a text.
+To write a python program for getting the word count from a file.
 ## EQUIPEMENT'S REQUIRED: 
 PC
 Anaconda - Python 3.7
